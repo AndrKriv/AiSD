@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Andrei\source\repos\asd_lab10\asd_lab10\Source.cpp(16,6): warning C4101: N: неиспользованная локальная переменная
+  asd_lab10.vcxproj -> C:\Users\Andrei\source\repos\asd_lab10\Debug\asd_lab10.exe
